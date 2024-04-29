@@ -1,0 +1,598 @@
+.App {
+  text-align: center;
+
+}
+
+
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.container2 {
+  background-color: white;
+
+
+}
+
+.online {
+  padding: 80px;
+}
+
+.demo2 {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.home1 {}
+
+.container {
+  background-image: url("./image/img2.jpg");
+  background-size: cover;
+  position: relative;
+  /* z-index: 0px; */
+
+
+}
+
+.main {
+  height: 600px;
+  width: 100%;
+  background-color: black;
+  opacity: 80%;
+  background-size: cover;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.one {
+  display: flex;
+  gap: 30px;
+  padding: 50px;
+  padding-top: 70px;
+}
+
+.one a {
+  text-decoration: none;
+  color: white;
+}
+
+.three {
+  padding: 70px;
+
+}
+
+.heading {
+  text-align: center;
+  font-size: x-large;
+  padding: 10px;
+}
+
+.heading h1 {
+  color: white;
+}
+
+.button {
+  height: 50px;
+  width: 120px;
+  border-radius: 10px;
+}
+
+.icon {
+  color: white;
+}
+
+.two {
+  padding: 40px;
+
+}
+
+.two h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.hh {
+  z-index: 3px;
+
+}
+
+.num2 {
+  display: flex;
+  justify-content: center;
+}
+
+.four {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img1 {
+  height: 250px;
+  width: 330px;
+  border-radius: 10px;
+}
+
+img.img1 {
+  position: absolute;
+  top: 55%;
+  left: 7%
+}
+
+.heading1 {
+  font-size: 130px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+
+}
+
+.num {
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.num1 {
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+  top: 70px;
+  font-weight: 600px;
+
+}
+
+.images {
+  height: 290px;
+  width: 390px;
+  /* padding-left: 20px; */
+  transition: 0.60s;
+  border-radius: 20px;
+
+}
+
+.images:hover {
+  height: 260px;
+  width: 360px;
+}
+
+.demo {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px;
+}
+
+img.img2 {
+  position: absolute;
+  top: 60%;
+  left: 35%;
+  height: 460px;
+  width: 490px;
+  border-radius: 10px;
+}
+
+img.img3 {
+  position: absolute;
+  top: 55%;
+  right: 5%;
+  height: 250px;
+  width: 330px;
+  border-radius: 10px;
+}
+
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.container3 {
+  background-color: black;
+  padding: 50px;
+  /* height: 60%; */
+
+
+
+}
+
+.ones {
+  color: white;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  padding-top: 70px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width:450px){
+  .ones{
+    color: aqua;
+    font-size: 20px;
+  }
+  .online{
+    padding: 0px;
+  }
+}
+
+.ones1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}
+
+.imgpart3 {
+  margin: 100px;
+  margin-left: 30px;
+}
+
+.container4 {
+
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+
+
+}
+
+.const4 {
+  background-color: burlywood;
+  height: 100%;
+
+}
+
+.container40 {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.threehead {
+  font-size: 60px;
+  font-weight: 500;
+
+}
+
+.divthree {
+  padding: 50px;
+}
+
+.imgtwo {
+  padding-left: 590px;
+}
+
+.container5 {
+  background-color: rgb(251, 239, 241);
+  height: 100%;
+
+}
+
+.headds {
+  text-align: center;
+  padding-top: 90px;
+  padding-bottom: 50px;
+}
+
+.hum {
+  font-size: 70px;
+  padding: 0;
+}
+
+.scroll-img {
+  height: 400px;
+  width: 800px;
+}
+
+.container6 {
+  background-color: white;
+}
+
+.vim2 {
+  font-size: 80px;
+  font-weight: 500;
+  margin: 0%;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.vim3 {
+  text-align: center;
+}
+
+.but {
+  /* padding-left:0px ; */
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.img-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-text img {
+  margin: 10px;
+}
+
+.img-text span {
+  text-align: center;
+}
+
+.lass img {
+  height: 100%;
+  width: 100%;
+
+
+}
+
+.purchase-btn button {
+  padding: 26px;
+  border-radius: 20px;
+  background-color: aqua;
+}
+
+.purchase:hover {
+  background-color: red;
+}
+
+.lass {
+  background-image: url(./image/mgg.png);
+
+  background-size: cover;
+  position: relative;
+  height: 900px;
+  width: 100%;
+}
+
+.purchase-heading {
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  padding: 420px 300px 0px 300px;
+  /* position: relative; */
+}
+
+.purchase-btn {
+  display: flex;
+  justify-content: center;
+}
+.container8{
+  background-image: url(./image/bckground.jpg);
+  background-size: cover;
+  height: 600px;
+  display: flex;
+  
+  justify-content: space-evenly;
+
+
+}
+.main-div {
+  padding: 20%;
+  padding-left: 40px;
+ width: 100%;
+ background-color:black;
+ opacity: 80%;
+ background-size: cover;
+  
+  
+}
+.main-u{
+position: absolute;
+padding: 60px;
+font-size: 70px;
+font-weight: bolder;
+color:white;
+}
+.spann-span{
+  font-size: 70px;
+  font-weight: bolder;
+  color: white;
+}
+.spannes-span{
+  font-size: x-large;
+  font-weight: 900;
+  color: white;
+}
+.menu-button{
+  padding: 20px;
+  border-radius: 20px;
+  border: none;
+}
+.favorite-span{
+  /* text-align: center; */
+  font-size: 60px;
+  font-weight: 600;
+}
+.favorite-spanes{
+  padding: 40px;
+  text-align: center;
+
+}
+.fav-foodcon{
+  display: flex;
+  justify-content:space-evenly;
+  padding: 20px;
+}
+.fav-foodcon2{
+  display: flex;
+  justify-content:space-evenly;
+  padding: 20px;
+
+}
+.fav-foodcon3{
+  display: flex;
+  justify-content:space-evenly;
+  padding: 20px;
+
+}
+.img-fav{
+  height: 230px;
+  width: 220px;
+  padding: 40px;
+  border-radius: 20px;
+}
+.text-spanes{
+  display: flex;
+  justify-content: center;
+}
+.fav-button{
+  background-color: red;
+  color: white; 
+}
+.cont-yellow{
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  background-color: yellow;
+}
+.cont9{
+  padding: 60px;
+}
+.span1-cont9{
+  font-size:70px;
+  font-weight: bold;
+}
+.read-more{
+  padding: 10px;
+  border-radius: 20px;
+}
+.div-fastfoods{
+  display: flex;
+  justify-content: space-around;
+}
+.img-fastfood{
+  height: 200px;
+  width: 390px;
+}
+.img-hotpizza{
+  height: 200px;
+  width: 390px;
+
+}
+.cont-blue{
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  background-color: rgb(122, 122, 248);
+}
+.cont-orange{
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  background-color: orangered;
+}
+.img-confection{
+  height: 200px;
+  width: 390px;
+
+}
+.hot-pizza{
+  font-size: 50px;
+  font-weight: 800;
+}
+.cont10{
+  align-items: center;
+}
+.fastfood-part1{
+  padding: 40px;
+}
+.fastfood-part2{
+  padding: 40px;
+}
+.cont-10 span{
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  font-size: 70px;
+  font-weight: bolder;
+
+}
+.img-fastfood{
+  height: 230px;
+  width: 260px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.login-img{
+  height: 700px;
+  width: 900px;
+  position: relative;
+}
+.log-page{
+  background-color: white;
+  height: 20px;
+  width: 30px;
+  position: absolute;
+}
+.cont-login{
+  text-align: center;
+}
+.img-back{
+  background-image: url("../src/image/login.jpg");
+  height: 700px;
+  width: 100%;
+background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.main-login{
+  background-color: aliceblue;
+  height: 610px;
+  width: 500px;
+}
+.div-ground{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 270px;
+  
+}
+.welcome-login{
+  font-size:x-large;
+}
+.sign-in{
+  font-size: medium;
+}
